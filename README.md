@@ -1,2 +1,2 @@
 # Ruby-shen
-A journey through aerospace, physics, sci-fi comics, and self-discovery
+A journey through physics, design, sci-fi comics, and self-discovery
